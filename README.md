@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there, I'm Bailey👋
+
+## - 🔭 I’m currently working on [EasyAutoScript](https://github.com/TheDevEngineer/EasyAutoScript):
+This repository contains the code for an educational new coding language I am creating called EasyAutoScript.
+
+## - 🌱 I’m currently learning advanced coding techniques on LeetCode.
 
 <!--
 **IAmAGameDev/IAmAGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
