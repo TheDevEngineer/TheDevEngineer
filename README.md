@@ -9,7 +9,7 @@ This repository contains the code for an educational new coding language I am cr
 
 ### 📫 How to reach me:
 
-[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bailey-kitchen-600657363/)
+[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baileykitchen/)
 
 ### - Languages and Tools:
 
