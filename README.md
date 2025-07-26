@@ -1,21 +1,20 @@
 # Hi there, I'm Bailey👋
 
-## - 🔭 I’m currently working on [EasyAutoScript](https://github.com/TheDevEngineer/EasyAutoScript):
+### 🚀 I'm actively seeking opportunities as a Software Engineer.
+
+### 🔭 I’m currently working on [EasyAutoScript](https://github.com/TheDevEngineer/EasyAutoScript):
 This repository contains the code for an educational new coding language I am creating called EasyAutoScript.
 
-## - 🌱 I’m currently learning advanced coding techniques on LeetCode.
+### 🌱 I’m currently learning advanced coding techniques on LeetCode.
 
-<!--
-**IAmAGameDev/IAmAGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 How to reach me:
 
-Here are some ideas to get you started:
+[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bailey-kitchen-600657363/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - Languages and Tools:
+
+![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,ts,react,dotnet,vscode,visualstudio,git,github,blender,unity,unreal)
+
+---
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDevEngineer&show_icons=true&theme=radical&hide_rank=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
