@@ -20,5 +20,5 @@ This repository contains the code for an educational new coding language I am cr
 <details>
   <summary>Click here for my GitHub stats</summary>
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDevEngineer&show_icons=true&theme=radical&hide_rank=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDevEngineer&show_icons=true&theme=radical&hide_rank=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 </details>
