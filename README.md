@@ -1,15 +1,9 @@
 # Hi there, I'm Bailey👋
 
-### 🚀 I'm actively seeking opportunities as a Software Engineer.
-
 ### 🔭 I’m currently working on [EasyAutoScript](https://github.com/TheDevEngineer/EasyAutoScript):
 This repository contains the code for an educational new coding language I am creating called EasyAutoScript.
 
 ### 🌱 I’m currently learning advanced coding techniques on LeetCode.
-
-### 📫 How to reach me:
-
-[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/baileykitchen/)
 
 ### - Languages and Tools:
 
